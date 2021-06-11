@@ -1,0 +1,4 @@
+here server.py is main file and script.py is our client script 
+
+first run server.py 
+secound run script.py and enter password and continue to follow the commands
